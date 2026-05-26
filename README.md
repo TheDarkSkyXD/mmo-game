@@ -1,4 +1,4 @@
-# BeriGame
+# MMO Game
 
 A multiplayer 3D web-based game built with React Three Fiber and serverless backend architecture.
 
